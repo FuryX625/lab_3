@@ -7,3 +7,10 @@ Janusz 40
 Krzysztof 20
 Janusz 40
 jan 3
+Krzysztof 20
+Janusz 40
+Krzysztof 20
+Janusz 40
+adam 21
+Krzysztof 20
+Janusz 40
